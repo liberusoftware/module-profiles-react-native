@@ -1,0 +1,25 @@
+{
+  "repository": "module-profiles-react-native",
+  "capabilityKey": "liberusoftware/profiles",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-profiles-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/boilerplate/nextjs/profiles.md",
+  "presentationPlan": "projects/boilerplate/react-native/profiles.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
